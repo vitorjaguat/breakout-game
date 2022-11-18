@@ -119,3 +119,11 @@ canvas {
 .win.hidden {
   display: none;
 }
+
+.win img,
+.lose img {
+  margin-top: 40px;
+  width: 300px;
+  display: block;
+  border-radius: 1rem;
+}
