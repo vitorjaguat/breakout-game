@@ -70,8 +70,8 @@ function drawPaddle() {
 
 //Draw score on canvas
 function drawScore() {
-  ctx.font = '20px Roboto';
-  ctx.fillText(`Score: ${score}`, canvas.width - 100, 30);
+  ctx.font = '20px Tomorrow';
+  ctx.fillText(`Score:   ${score}`, canvas.width - 100, 30);
 }
 
 //Draw bricks on canvas

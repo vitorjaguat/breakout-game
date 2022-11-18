@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Tomorrow:wght@100;400;700&display=swap');
 
 * {
   box-sizing: border-box;
@@ -6,7 +6,7 @@
 
 body {
   background-color: #0095dd;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Tomorrow', sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -51,6 +51,7 @@ canvas {
   position: absolute;
   top: 30px;
   left: 30px;
+  font-family: 'Tomorrow', sans-serif;
 }
 
 .rules {
