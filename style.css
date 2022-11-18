@@ -72,6 +72,10 @@ canvas {
   transform: translateX(0);
 }
 
+.btn {
+  font-family: 'Tomorrow', sans-serif;
+}
+
 .lose {
   background-color: #000;
   height: 100vh;
